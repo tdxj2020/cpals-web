@@ -1,0 +1,11 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.carousel-caption{
+    position: sticky;
+    bottom: 20%;
+    z-index: 20;
+    color: white;
+    text-shadow: 0 3px 5px rgba(0,0,0,1);
+  }
